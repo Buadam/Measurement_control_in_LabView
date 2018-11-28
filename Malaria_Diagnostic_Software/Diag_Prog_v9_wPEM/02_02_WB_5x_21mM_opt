@@ -1,0 +1,4 @@
+Time since preparation	MLD	dMLD	Spectrum 1f	Spectrum 2f	MLD Lockin	dMLD Lockin	Phase	dPhase	Vdc	dVdc	Unbalanced?
+min	mV/V	mV/V	mV/V	mV/V	mV/V	mV/V	deg	deg	V	V	y/n
+T_42min_	T_42min_	T_42min_	T_42min_	T_42min_	T_42min_	T_42min_					
+42.670891	0.131749	0.048250	23.972957	0.114415	0.000000	0.000000	0.433471	-1.415530	2.201744	0.002339	0.000000
